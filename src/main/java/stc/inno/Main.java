@@ -1,6 +1,5 @@
 package stc.inno;
 
-
 import stc.inno.ConnectionManager.ConnectionManager;
 import stc.inno.ConnectionManager.ConnectionManagerJdbcImpl;
 import stc.inno.dao.MobileDao;
@@ -10,10 +9,12 @@ import stc.inno.pojo.Mobile;
 import java.sql.SQLException;
 
 public class Main {
-
     public static void main(String[] args) throws SQLException {
+
+
         ConnectionManager connectionManager = ConnectionManagerJdbcImpl.getInstance();
-        MobileDao         mobileDao         = new MobileDaoJdbcImpl(connectionManager);
+
+        MobileDao mobileDao = new MobileDaoJdbcImpl(connectionManager);
         mobileDao.renewDatabase();
         Main main = new Main();
         main.method1(mobileDao);
