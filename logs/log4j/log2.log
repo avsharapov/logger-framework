@@ -1,0 +1,15 @@
+2021-04-21 20:34:17,981 INFO s.i.d.MobileDaoJdbcImpl [main] getMobileById 
+2021-04-21 20:34:18,182 INFO s.i.d.MobileDaoJdbcImpl [main] updateMobileById 
+2021-04-21 20:34:18,333 INFO s.i.d.MobileDaoJdbcImpl [main] getMobileById 
+2021-04-21 20:35:29,328 INFO s.i.d.MobileDaoJdbcImpl [main] getMobileById 
+2021-04-21 20:35:29,449 INFO s.i.d.MobileDaoJdbcImpl [main] updateMobileById 
+2021-04-21 20:35:29,533 INFO s.i.d.MobileDaoJdbcImpl [main] getMobileById 
+2021-04-21 20:35:57,282 INFO s.i.d.MobileDaoJdbcImpl [main] getMobileById 
+2021-04-21 20:35:57,446 INFO s.i.d.MobileDaoJdbcImpl [main] updateMobileById 
+2021-04-21 20:35:57,555 INFO s.i.d.MobileDaoJdbcImpl [main] getMobileById 
+2021-04-21 20:41:32,815 INFO s.i.d.MobileDaoJdbcImpl [main] getMobileById 
+2021-04-21 20:41:32,919 INFO s.i.d.MobileDaoJdbcImpl [main] updateMobileById 
+2021-04-21 20:41:33,019 INFO s.i.d.MobileDaoJdbcImpl [main] getMobileById 
+2021-04-21 20:43:49,608 INFO s.i.d.MobileDaoJdbcImpl [main] getMobileById 
+2021-04-21 20:43:49,802 INFO s.i.d.MobileDaoJdbcImpl [main] updateMobileById 
+2021-04-21 20:43:49,995 INFO s.i.d.MobileDaoJdbcImpl [main] getMobileById 

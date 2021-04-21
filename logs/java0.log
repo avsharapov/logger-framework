@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-04-21T20:02:53</date>
+  <millis>1619024573601</millis>
+  <sequence>0</sequence>
+  <logger>Main</logger>
+  <level>SEVERE</level>
+  <class>stc.inno.Main</class>
+  <method>method1</method>
+  <thread>1</thread>
+  <message>Итоговый объект: {Mobile{id=6, model='Iphone 2', price=50000, manufacturer=Apple}}</message>
+</record>
+</log>

@@ -1,0 +1,9 @@
+21.04.2021 20:49:40.946 [main] INFO  s.i.d.MobileDaoJdbcImpl - addMobile Mobile{id=null, model='Iphone 2', price=25000, manufacturer=Apple}
+21.04.2021 20:49:41.183 [main] INFO  s.i.d.MobileDaoJdbcImpl - getMobileById
+21.04.2021 20:49:41.293 [main] INFO  s.i.d.MobileDaoJdbcImpl - updateMobileById
+21.04.2021 20:49:41.380 [main] INFO  s.i.d.MobileDaoJdbcImpl - getMobileById
+21.04.2021 20:55:33.171 [main] INFO  s.i.d.MobileDaoJdbcImpl - addMobile Mobile{id=null, model='Iphone 2', price=25000, manufacturer=Apple}
+21.04.2021 20:55:33.337 [main] INFO  s.i.d.MobileDaoJdbcImpl - getMobileById
+21.04.2021 20:55:33.635 [main] INFO  s.i.d.MobileDaoJdbcImpl - updateMobileById
+21.04.2021 20:55:33.877 [main] INFO  s.i.d.MobileDaoJdbcImpl - getMobileById
+21.04.2021 20:59:43.483 [main] INFO  s.i.d.MobileDaoJdbcImpl - addMobile Mobile{id=null, model='Iphone 2', price=25000, manufacturer=Apple}

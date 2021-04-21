@@ -34,16 +34,19 @@
   </appender>
 
 
+  <root level="debug">
+    <appender-ref ref="CONSOLE"/>
+    <appender-ref ref="db"/>
+  </root>
+
+
   <logger name="stc.inno.dao.MobileDaoJdbcImpl" level="debug" additivity="false">
     <appender-ref ref="CONSOLE"/>
     <appender-ref ref="db"/>
     <appender-ref ref="FILE"/>
   </logger>
 
-  <root level="error">
-    <appender-ref ref="CONSOLE"/>
-  </root>
 
-<!--  <logger name="org.postgresql" level="trace"/>-->
+    <logger name="org.postgresql" level="trace"/>
 
 </configuration>

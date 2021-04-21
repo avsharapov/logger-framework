@@ -20,7 +20,7 @@ public class ConnectionManagerJdbcImpl implements ConnectionManager {
         Connection connection = null;
         try {
             connection = DriverManager.getConnection(
-                    "jdbc:postgresql://localhost:5434/jdbcDB",
+                    "jdbc:postgresql://localhost:5432/jdbcDB",
                     "postgres",
                     "qwerty");
         } catch (SQLException e) {
